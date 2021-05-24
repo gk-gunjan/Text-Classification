@@ -1,0 +1,1 @@
+We provide a complete step by step python implementation of naive bayes in Text classification , and by keeping in mind the mathematical & probabilistic difficulties we usually face when trying to dive deep in to the algorithmic insights of ML algorithms, this post should be ideal for beginners.
